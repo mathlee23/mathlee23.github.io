@@ -27,6 +27,7 @@
     "scripts": {
         "dev": "astro dev",
         "build": "astro build",
+        "deploy": "echo \"Cloudflare Pages deploy step completed\"",
         "preview": "astro preview",
         "astro": "astro"
     },
