@@ -1,17 +1,17 @@
 {
-    "name": "astro-i18n-starter",
+    "name": "mathlee23.github.io",
     "private": true,
     "version": "1.0.0",
     "type": "module",
     "description": "Multilingual Astro starter with URL localization and i18n support",
     "author": {
-        "name": "Nik Klemenc",
-        "url": "https://indextree.dev"
+        "name": "Hyunseok Lee",
+        "url": "https://mathlee23.github.io"
     },
-    "homepage": "https://indextree.dev",
+    "homepage": "https://mathlee23.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/indextree/indextree.github.io"
+        "url": "https://github.com/mathlee23/mathlee23.github.io"
     },
     "license": "MIT",
     "keywords": [

@@ -1,4 +1,4 @@
-# Changmin's Blog
+# Hyunseok's Blog
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -19,8 +19,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/indextree/indextree.github.io
-cd indextree.github.io
+git clone https://github.com/mathlee23/mathlee23.github.io
+cd mathlee23.github.io
 
 # Install dependencies
 npm install

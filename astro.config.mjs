@@ -7,14 +7,14 @@ import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://indextree.dev",
+    site: "https://mathlee23.github.io",
 
   integrations: [
       mdx(),
       sitemap({
           customPages: [
-              "https://indextree.dev",
-              "https://indextree.dev/ko/",
+              "https://mathlee23.github.io",
+              "https://mathlee23.github.io/ko/",
           ],
           changefreq: "monthly",
           priority: 0.7,

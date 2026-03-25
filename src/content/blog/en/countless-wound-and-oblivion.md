@@ -5,7 +5,7 @@ linkedContent: "countless-wound-and-oblivion"
 description: "My personal reflections about my life journey."
 keywords: "Diary"
 
-author: "Changmin Cho"
+author: "Hyunseok Lee"
 pubDate: 2026-03-18
 isDraft: false
 
@@ -15,7 +15,7 @@ imageAlt: "Hometown"
 
 ## Introduction
 
-The shame that remains deep in my heart comes from wounds. To speak about something this deep, I seem to need words that at least sound convincing. The many wounds of my childhood destroyed me. I gave up, long ago, on the ordinary hope that I should at least not hurt other people. A psychological assessment once described me as a selfish person. Maybe that is true. Maybe it is right. The nature I have dressed up in plausible words does not seem to explain anything about me. I am writing this very impulsively, but perhaps that, too, is a good description of who I am. First, I would like to thank *Circle of Life*, the song that helped me write this post, and the domain indextree.dev. I also want to thank the author of the blog template. And I want to thank the many people who have helped me stay alive until now.
+The shame that remains deep in my heart comes from wounds. To speak about something this deep, I seem to need words that at least sound convincing. The many wounds of my childhood destroyed me. I gave up, long ago, on the ordinary hope that I should at least not hurt other people. A psychological assessment once described me as a selfish person. Maybe that is true. Maybe it is right. The nature I have dressed up in plausible words does not seem to explain anything about me. I am writing this very impulsively, but perhaps that, too, is a good description of who I am. First, I would like to thank *Circle of Life*, the song that helped me write this post, and the domain mathlee23.github.io. I also want to thank the author of the blog template. And I want to thank the many people who have helped me stay alive until now.
 
 ## Childhood
 
