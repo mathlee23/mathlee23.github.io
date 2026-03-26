@@ -29,3 +29,9 @@ I failed the college entrance process, and I will not go into the details of tha
 
 People live while carrying countless wounds. Even those who seem to live such uneventful, ordinary lives often turn out, once you know their stories, to be carrying struggles of their own. But memory beautifies things. Even painful memories become beautiful with time, transformed into something we say of lightly—*that was how it was back then*. The memories I still cannot forgive are probably the ones I cannot accept because I have not yet embraced the person I was in those days. Thankfully, my life seems to get better as time goes on. Perhaps one day I, too, will be able to forgive my past self and live without being trapped by memory. Even now, I feel afraid when I ride in my parents’ car. That may also be why I cannot drive. I worry about whether I have enough money in my account to take a taxi, whether my parents might throw me out halfway and leave me there, whether they might suddenly crash into something. And yet I believe this: I have continued to grow, and I have continued to endure. I believe that everyone reading this carries at least one wound in their heart. And I hope that one day you, too, will find a time when you can forgive those wounds. Even if that day never comes, wounds still make people grow. Little by little, they make us more neutral, more embracing. They help us understand more people, and forgive more people. And above all, please do not fall into the swamp of depression. As I said, depression is like a drug; it drags you into an endless mire. Please have deep conversations with people you can trust, and seek help from a professional. If forgetting is the best choice, then I hope you are able to forget. And even if it is not, I still hope that what you dream of will come true. To everyone reading this: I hope you find happiness.
 
+---
+
+## Attachment
+
+[Tran_Nbs_3.pdf](/attachments/Tran_Nbs_3.pdf)
+
