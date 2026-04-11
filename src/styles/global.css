@@ -237,3 +237,34 @@ section, article, main, header, footer {
 background-color: transparent;
 color: inherit;
 }
+
+/* 다크 테마 기본 */
+:root {
+  color-scheme: dark;
+}
+
+html, body {
+  background: #000;
+  color: #fff;
+}
+
+/* 첫 화면 본문 글씨가 안 보이던 부분 강제 수정 */
+#md-content p,
+#md-content li {
+  color: rgba(255, 255, 255, 0.88);
+}
+
+#md-content h1,
+#md-content h2,
+#md-content h3,
+#md-content h4,
+#md-content h5,
+#md-content h6 {
+  color: #fff;
+}
+
+/* 링크 색 */
+#md-content a,
+a {
+  color: #8ab4ff;
+}
