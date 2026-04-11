@@ -219,3 +219,21 @@ abbr {
     @apply text-red-600;
     text-decoration: none;
 }
+
+:root {
+color-scheme: dark;
+}
+
+html, body {
+background-color: #000000;
+color: #ffffff;
+}
+
+a {
+color: #8ab4ff;
+}
+
+section, article, main, header, footer {
+background-color: transparent;
+color: inherit;
+}
