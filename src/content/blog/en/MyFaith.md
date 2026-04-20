@@ -24,9 +24,10 @@ I deeply respect all faiths. Whether it be Catholicism, Buddhism, Won Buddhism, 
 
 **A Dialogue Between an Atheist and an Old Monk**
 
- **Atheist:** "Brother, what if you open your eyes after death and find that neither the God nor the Heaven you devoted your life to exists? Wouldn't you feel cheated, having lived a life of self-denial for nothing?"
-
-**Monk:** "Not at all. Even if God does not exist, because I believed in Him, I was able to spend my life loving and forgiving others, enjoying a profound peace of mind. For that reason alone, my life has been sufficiently meaningful and happy. I have no regrets."
+> **Atheist:** "Brother, what if you open your eyes after death and find that neither the God nor the Heaven you devoted your life to exists? Wouldn't you feel cheated, having lived a life of self-denial for nothing?"
+>
+>
+> **Monk:** "Not at all. Even if God does not exist, because I believed in Him, I was able to spend my life loving and forgiving others, enjoying a profound peace of mind. For that reason alone, my life has been sufficiently meaningful and happy. I have no regrets."
 
 
 This conversation resonates with 'Pascal’s Wager.' While the mathematician Blaise Pascal argued that believing in God is the most logical "bet" in terms of probability, the old monk’s answer is far warmer and more positive than pure logic. (It is also worth noting that the genius mathematician John von Neumann returned to Catholicism in his final days.)  
