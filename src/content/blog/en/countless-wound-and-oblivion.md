@@ -60,31 +60,34 @@ You can choose the subtitles as an English.
 
 Lyrics of Narrow Road (소로) 
 
-Even if I can’t runs as fast as others 
-My days have been piling up and trudging along 
-They say time goes by so quickly,
-But I truly didn’t realize it would only be a moment 
-Don’t be afraid, dear 
-On the part it’s every man from himself 
-No matter where you’re going, no matter how slow you go 
+Even if I can’t runs as fast as others  
+My days have been piling up and trudging along   
+They say time goes by so quickly,  
+But I truly didn’t realize it would only be a moment  
+Don’t be afraid, dear  
+On the part it’s every man from himself  
+No matter where you’re going, no matter how slow you go  
 Just keep following that narrow path in front of you 
 
-Avoid the shortcuts and complicated roads, 
-The part is crooked and narrow because someone stepped on it 
-For the lonely someone who will follow behind me 
-I walked step by step like aiding the path 
-Don’t be afraid, dear 
-On the part it’s every man from himself 
-No matter where you’re going, no matter how slow you go 
+
+Avoid the shortcuts and complicated roads,  
+The part is crooked and narrow because someone stepped on it  
+For the lonely someone who will follow behind me  
+I walked step by step like aiding the path  
+Don’t be afraid, dear  
+On the part it’s every man from himself  
+No matter where you’re going, no matter how slow you go  
 Humbly follow that narrow path in front of you 
 
-The honor of the world is a hard liquor 
-You get wasted more and more you drink 
-Just with a stumble, in search of the secret spring water spurting silently,
+
+The honor of the world is a hard liquor  
+You get wasted more and more you drink  
+Just with a stumble, in search of the secret spring water spurting silently,  
 Go as if you are a little bit droughty 
 
-Don’t be lonely 
-All paths converges eventually 
-If you walk along the broken and dead-en roads, 
+
+Don’t be lonely  
+All paths converges eventually  
+If you walk along the broken and dead-en roads,  
 Looking back, they will become your narrow path 
 
