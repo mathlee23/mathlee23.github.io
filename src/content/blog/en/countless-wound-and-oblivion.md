@@ -51,3 +51,40 @@ Translated by Brother Anthony of Taize
 
 ## Narrow Road. 
 Yes, I will simply walk the path given to me with all my might. Whether it is a smooth, well-paved road, a rough trail full of gravel, a muddy path, or a winding, rain-soaked uphill climb, it does not matter. Even if my feet blister, even if I grow weary and lose my way with every step, I will simply keep walking silently at my own pace. That is the goal and the promise of my life.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2TnUjaoWqA?si=3uhxOlQWVgSd6QZL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+You can choose the subtitles as an English. 
+
+Lyrics of Narrow Road (소로) 
+
+Even if I can’t runs as fast as others 
+My days have been piling up and trudging along 
+They say time goes by so quickly,
+But I truly didn’t realize it would only be a moment 
+Don’t be afraid, dear 
+On the part it’s every man from himself 
+No matter where you’re going, no matter how slow you go 
+Just keep following that narrow path in front of you 
+
+Avoid the shortcuts and complicated roads, 
+The part is crooked and narrow because someone stepped on it 
+For the lonely someone who will follow behind me 
+I walked step by step like aiding the path 
+Don’t be afraid, dear 
+On the part it’s every man from himself 
+No matter where you’re going, no matter how slow you go 
+Humbly follow that narrow path in front of you 
+
+The honor of the world is a hard liquor 
+You get wasted more and more you drink 
+Just with a stumble, in search of the secret spring water spurting silently,
+Go as if you are a little bit droughty 
+
+Don’t be lonely 
+All paths converges eventually 
+If you walk along the broken and dead-en roads, 
+Looking back, they will become your narrow path 
+
