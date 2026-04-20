@@ -25,23 +25,27 @@ No matter how far technology advances or if the era of AI fully arrives, I belie
 
 ## Someone, 
 
-Someone will keep singing, and someone will keep painting. Even if it is a song no one hears or a painting no one sees, someone will steadily create and silently raise their voice. And I believe that will become a piece of history, a page in a well-worn book. I dream of a world where people can love humanely, exactly as humans should. Even if it is but a vain hope, I want to embrace it, endure with it, and live my life holding onto it. Until the day I return to the sky.
+Someone will keep singing, and someone will keep painting. Even if it is a song no one hears or a painting no one sees, someone will steadily create and silently raise their voice. And I believe that will become a piece of history, a page in a well-worn book. I dream of a world where people can love humanely, exactly as humans should. Even if it is but a vain hope, I want to embrace it, endure with it, and live my life holding onto it. Until the day I return to the sky.  
 
 
-Back to Heaven by Cheon Sang-Byeong
+Back to Heaven by Cheon Sang-Byeong  
 
-I'll go back to heaven again.
-Hand in hand with the dew
+
+I'll go back to heaven again.  
+Hand in hand with the dew  
 that melts at a touch of the dawning day,
 
-I'll go back to heaven again.
-With the dusk, together, just we two,
+
+I'll go back to heaven again.  
+With the dusk, together, just we two,  
 at a sign from a cloud after playing on the slopes
 
-I'll go back to heaven again.
-At the end of my outing to this beautiful world
+
+I'll go back to heaven again.  
+At the end of my outing to this beautiful world  
 I'll go back and say: It was beautiful. . . .
- 
+
+ 
 Translated by Brother Anthony of Taize
 
 
