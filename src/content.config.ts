@@ -19,6 +19,14 @@ const blogCollection = defineCollection({
             linkedContent: z.string().optional(),
             image: image(),
             imageAlt: z.string().optional(),
+             images: z.array(                   
+            z.object({
+                src: image(),
+                alt: z.string().optional(),
+            })
+        ).optional(),
+        attachments: z.array(...).optional(),
+    }),
             attachments: z
                 .array(
                     z.object({
