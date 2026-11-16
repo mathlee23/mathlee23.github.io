@@ -11,7 +11,7 @@ isDraft: false
 
 image: "@blogImages/IMG_3181.JPG"
 imageAlt: "fourseason"
-images:                                 # 본문 속 추가 이미지들
+images:                                 
   - src: "@blogImages/IMG_3181.JPG"
     alt: "fourseason"
   - src: "@blogImages/IMG_3182.JPG"
