@@ -29,7 +29,6 @@ const blogCollection = defineCollection({
                 )
                 .optional(),
         }),
-});
 
 const authors = defineCollection({
     loader: file("src/content/authors/authors.json"),
