@@ -83,22 +83,21 @@ const t = useTranslations(lang);
                 transition:name={`${post.data.title}-image`}
             />
 
-<!--Additional Images (갤러리) 
-{post?.data?.images && post.data.images.length > 0 && (
-    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
-        {post.data.images.map((img, i) => (
-            <Image
-                src={img.src}
-                alt={img.alt ?? ""}
-                loading="lazy"
-                quality={"high"}
-                sizes="(min-width: 1024px) 400px, 100vw"
-                class="rounded-lg w-full object-cover"
-            />
-        ))}
-    </div>
-)}
-
+            <!--Additional Images-->
+            {post?.data?.images && post.data.images.length > 0 && (
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
+                    {post.data.images.map((img) => (
+                        <Image
+                            src={img.src}
+                            alt={img.alt ?? ""}
+                            loading="lazy"
+                            quality={"high"}
+                            sizes="(min-width: 1024px) 400px, 100vw"
+                            class="rounded-lg w-full object-cover"
+                        />
+                    ))}
+                </div>
+            )}
 
             <!--Article Title-->
             <h1 id="article-title" class="!text-left">
