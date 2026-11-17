@@ -5,8 +5,8 @@
         "keywords": "blog, articles, posts, pagination, multilingual blog, Astro blog, web development, content management"
     },
     "title": "Blog",
-    "description": "Example of blog posts",
-    "descriptionPagination": "Example of paginated blog posts",
+   "description": "Writing on mathematics, life, and the moments in between.",
+"descriptionPagination": "More writings.",
     "readMore": "Read More",
     "noPosts": "No blog posts available at the moment.",
     "totalPosts": "Total {{count}} posts",
