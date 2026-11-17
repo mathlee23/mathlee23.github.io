@@ -7,5 +7,18 @@
     "title": "Between Proof and Prose",
     "description": "A mathematician who researches, teaches, and writes.",
     "intro": "I study transcendental number theory, teach students who love mathematics, and write about the moments in between. This is a space where proofs and prose quietly coexist.",
-    "features": []
+    "features": [
+        {
+            "title": "✍️ Writing",
+            "list": [
+                { "p": "Records of daily life, seasons, and the people I meet along the way." }
+            ]
+        },
+        {
+            "title": "📐 Mathematics",
+            "list": [
+                { "p": "Thoughts on transcendental number theory, seminars, and the beauty of proof." }
+            ]
+        }
+    ]
 }
